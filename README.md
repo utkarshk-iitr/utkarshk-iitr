@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<hr>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=utkarshk-iitr&show_icons=true&locale=en&layout=compact)
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshk-iitr&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+
+<br> 
+<hr>
+
 <!--
 **utkarshk-iitr/utkarshk-iitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
