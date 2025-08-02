@@ -1,26 +1,16 @@
-## Hi there 👋
-
 <hr>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=utkarshk-iitr&show_icons=true&locale=en&layout=compact)
-<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshk-iitr&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
-
-<br> 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshk-iitr&show_icons=true&locale=en&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshk-iitr&" alt="utkarshk-iitr" /></p>
 <hr>
 
-<!--
-**utkarshk-iitr/utkarshk-iitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/utkarsh-kumar-95740130b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-kumar-95740130b" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/Error303-CodeNotFound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Error303-CodeNotFound" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+-------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
