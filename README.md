@@ -1,9 +1,7 @@
 <hr>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=utkarshk-iitr&show_icons=true&locale=en&layout=compact)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshk-iitr&show_icons=true&locale=en&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshk-iitr&" alt="utkarshk-iitr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshk-iitr&show_icons=true&locale=en&layout=compact" alt="utkarshk-iitr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshk-iitr&show_icons=true&locale=en&layout=compact" alt="utkarshk-iitr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshk-iitr" alt="utkarshk-iitr" /></p>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
@@ -14,3 +12,4 @@
 
 -------
 
+<p align = "center"><a href = "https://thispersondoesnotexist.com/"><img src="https://skillicons.dev/icons?i=c,cpp,latex,py,vscode,git,github,mysql,godot,md,html,css,js" /></a></p>
