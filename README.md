@@ -1,5 +1,3 @@
-// ...existing code...
-**Utkarsh Kumar**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshk-iitr&show_icons=true&theme=tokyonight)
 
