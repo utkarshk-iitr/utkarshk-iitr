@@ -15,4 +15,4 @@
 
 -------
 
-<p align = "center"><a href = "https://thispersondoesnotexist.com/"><img src="https://skillicons.dev/icons?i=c,cpp,latex,py,vscode,git,github,mysql,godot,md,html,css,js" /></a></p>
+<p align = "center"><a href = "https://thispersondoesnotexist.com/"><img src="https://skillicons.dev/icons?i=c,cpp,latex,py,vscode,git,github,mysql,godot,md,html,css,js,nodejs,mongodb,reactjs,tailwindcss,expressjs" /></a></p>
